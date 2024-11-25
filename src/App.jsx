@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ApiCalendar from 'react-google-calendar-api';
-import './App.css'; 
+import './App.css';
 
 // Configuración de credenciales
 const config = {
